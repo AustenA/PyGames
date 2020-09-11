@@ -7,3 +7,5 @@ Snake.py is the classic snake game. It took me longer than I'd like to admit to 
 TicTacToe.py is a 2 Player TicTacToe game that actually says who won so that was repetitive to code. But ended up working nicely.
 
 Pong is just a series of classic pong games that are all slightly different. I never got the angles to change so they are basically always the same.
+
+-Austen 
